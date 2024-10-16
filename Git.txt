@@ -1,0 +1,9 @@
+Tạo dự án:
+git init
+git add . / git add tên_file
+git commit -m "tên commit"
+git remote add origin <url> - nên copy ở trên github
+git push origin tên_nhánh (tên nhánh là cái trong dấu ngoặc (maseter))
+git config --global user.name "Tên của bạn"
+git config --global user.email "emailcuaban@example.com"
+git config --global --list
